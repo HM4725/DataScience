@@ -1,0 +1,15 @@
+credit	term	income	age	loan
+Fair	3years	High	<=30	risky
+Fair	3years	High	<=30	risky
+Excellent	3years	High	>50	safe
+Poor	5years	High	31...50	safe
+Poor	5years	Low	31...50	safe
+Poor	5years	Low	>50	risky
+Excellent	5years	Low	<=30	safe
+Fair	3years	High	31...50	risky
+Fair	5years	Low	>50	safe
+Poor	3years	Low	>50	safe
+Fair	3years	Low	31...50	safe
+Excellent	3years	High	31...50	safe
+Excellent	5years	Low	<=30	safe
+Poor	5years	High	>50	risky
